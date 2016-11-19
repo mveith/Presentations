@@ -134,9 +134,9 @@ Target "KeepRunning" (fun _ ->
     
     startWebServer ()
 
-    traceImportant "Waiting for slide edits. Press any key to stop."
+    traceImportant "Waiting for slide edits. Press Enter key to stop."
 
-    System.Console.ReadKey() |> ignore
+    System.Console.Read() |> ignore
 
     watcher.Dispose()
 )
