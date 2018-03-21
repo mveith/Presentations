@@ -16,6 +16,16 @@
 
 ### Elm?
 
+---
+
+### A Nightmare on *Elm* Street?
+
+![alt Elm Street](https://media.giphy.com/media/3otPoPWetYFLGwDDQ4/giphy.gif "Elm Street")
+
+---
+
+### Jazyk Elm!
+
 - [elm-lang.org](http://elm-lang.org/)
 - _Nádherný jazyk pro spolehlivé webové aplikace_
 - Funkcionální jazyk pro psaní webových aplikací, který se kompiluje do JS
@@ -78,7 +88,13 @@
  - Funkce přebírající aktuální stav
  - Výstupem funkce je Html, tedy výstup pro aktuální stav aplikace
  - Uživatel ve výstupu může vygenerovat **Message**
- 
+
+---
+
+### Elm architektura
+
+![alt Architektura](https://pbs.twimg.com/media/DYImH4mW4AA0SHe.jpg "Architektura") 
+
 ***
 
 ### Workflow
