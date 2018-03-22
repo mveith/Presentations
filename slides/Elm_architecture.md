@@ -1,5 +1,5 @@
 - title : The Elm Architecture
-- description : Dají se v F# psát client-side webové aplikace? Ano, samozřejmě dají. A v této přednášce si ukážeme, jak na to pomocí Fable. Také se pokusíme odpovědět na pár otázek, které si v souvislosti s F# na webu můžete položit.
+- description : Jednoduché představení architektury aplikací v jazyce Elm.
 - author : Miroslav Veith
 - theme : Blood
 - transition : concave
