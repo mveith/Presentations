@@ -247,6 +247,7 @@
  - Kniha: Mastering F# - Alfonso García-Caro Núñez, Suhaib Fahad
     - kapitola věnovaná Fable, ale před verzí 1.0
  - [Awesome Fable](https://github.com/kunjee17/awesome-fable)
+ - [FSharping meetup v Praze](https://www.meetup.com/FSharping/)
  
 ***
 
